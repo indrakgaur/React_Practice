@@ -1,0 +1,34 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React practice",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indrakgaur/react.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "css"
+  ],
+  "author": "Indrakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indrakgaur/react/issues"
+  },
+  "homepage": "https://github.com/indrakgaur/react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
